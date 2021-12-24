@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhaddisRehman, currently in college for IT degree.
 - 👀 I’m interested in learning to code professionally and get better.
-- 🌱 I’m currently learning front end development.
+- 🌱 I’m currently learning C++ for cp.
 - 💞️ I’m looking to collaborate on vs code.
 - 📫 How to reach me ... @66DarkSeid99(twitter), 
 
